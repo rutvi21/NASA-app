@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NASA-app/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/NASA-app/static/js/main.a1a08580.chunk.js",
+    "main.js.map": "/NASA-app/static/js/main.a1a08580.chunk.js.map",
+    "runtime-main.js": "/NASA-app/static/js/runtime-main.4fb30023.js",
+    "runtime-main.js.map": "/NASA-app/static/js/runtime-main.4fb30023.js.map",
+    "static/js/2.bc898789.chunk.js": "/NASA-app/static/js/2.bc898789.chunk.js",
+    "static/js/2.bc898789.chunk.js.map": "/NASA-app/static/js/2.bc898789.chunk.js.map",
+    "index.html": "/NASA-app/index.html",
+    "precache-manifest.592530a5b7af7d245a9d752a05951137.js": "/NASA-app/precache-manifest.592530a5b7af7d245a9d752a05951137.js",
+    "service-worker.js": "/NASA-app/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/NASA-app/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.bc898789.chunk.js.LICENSE.txt": "/NASA-app/static/js/2.bc898789.chunk.js.LICENSE.txt",
+    "static/media/asteroid.png": "/NASA-app/static/media/asteroid.088fe5a9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fb30023.js",
+    "static/js/2.bc898789.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.a1a08580.chunk.js"
+  ]
+}
